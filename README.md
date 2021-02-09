@@ -21,4 +21,4 @@ KHOA S-100 Viewer will release under the LGPLv3.
 # Project participants
 * [Korea Hydrographic and Oceanographic Agency (KHOA)](https://www.khoa.go.kr/eng/)
 * [Korea Research Institute of Ships and Ocean (KRISO)](https://www.kriso.re.kr/eng/)
-* THE PROST Inc. (Republic of Korea)
+* THE PROST Inc.
