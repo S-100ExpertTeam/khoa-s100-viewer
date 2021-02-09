@@ -18,6 +18,11 @@ This project will be a open source project by the end of 2021.
 # License
 KHOA S-100 Viewer will release under the LGPLv3. 
 
+# Limitations
+## S-101 PC 1.1.1
+The version of pre-installed S-101 PC is 1.1.1.  
+But, does not support the latest changes in PC and drawing commands  
+
 # Project participants
 * [Korea Hydrographic and Oceanographic Agency (KHOA)](https://www.khoa.go.kr/eng/)
 * [Korea Research Institute of Ships and Ocean (KRISO)](https://www.kriso.re.kr/eng/)
