@@ -10,10 +10,8 @@ This project will be a open source project by the end of 2021.
 * S-122 Marine Protected Areas
 * S-123 Marine Radio Services
 * S-124 Navigational Warnings
-* S-125 Marine Navigational Services
 * S-126 Marine Physical Environment
 * S-127 Marine Traffic Management 
-* S-128 Catalogue of Nautical Products
 
 # License
 KHOA S-100 Viewer will release under the LGPLv3. 
