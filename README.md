@@ -6,11 +6,9 @@ This project will be a open source project by the end of 2021.
 * S-101 Electronic Navigational Chart
 * S-102 Bathymetric Surface
 * S-111 Surface Currents
-* S-121 Maritime Limits and Boundaries
 * S-122 Marine Protected Areas
 * S-123 Marine Radio Services
 * S-124 Navigational Warnings
-* S-126 Marine Physical Environment
 * S-127 Marine Traffic Management 
 
 # License
