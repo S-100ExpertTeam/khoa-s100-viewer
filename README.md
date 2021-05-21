@@ -14,6 +14,9 @@ This project will be a open source project by the end of 2021.
 # License
 KHOA S-100 Viewer will release under the LGPLv3. 
 
+# Issues
+If you have a problem with KHOA S-100 Viewer, add new issue in a [Issues] tab.
+
 # Limitations
 ## S-101 PC 1.1.1
 The version of pre-installed S-101 PC is 1.1.1.  
