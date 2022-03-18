@@ -1,5 +1,6 @@
 # New version.
 KHOA S-100 Viewer 1.0.12 is now available.
+Now edit S-10x GML.
 
 # About KHOA S-100 Viewer
 KHOA S-100 Viewer is a GIS software that complies with the IHO S-100 standard.  
