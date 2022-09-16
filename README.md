@@ -28,4 +28,5 @@ But, does not support the latest changes in PC and drawing commands
 # Project participants
 * [Korea Hydrographic and Oceanographic Agency (KHOA)](https://www.khoa.go.kr/eng/)
 * [Korea Research Institute of Ships and Ocean (KRISO)](https://www.kriso.re.kr/eng/)
-* THE PROST Inc.
+* THE PROST Inc. (~2021)
+* BLUEMAP Inc. (2022~)
